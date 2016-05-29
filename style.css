@@ -1,0 +1,17 @@
+body {
+    margin:0;
+    padding:0;
+    background-color: #161616;
+    font-family: 'Roboto';
+    color: #fff;
+
+}
+
+h1 {
+    font-size: 5em;
+}
+
+p ,a {
+    font-size: 1.8em;
+    text-transform: capitalize;
+}
